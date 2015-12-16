@@ -2,14 +2,28 @@
     <channel>
         <title><![CDATA[Hagelandse ElekttriciteitsWerken]]></title>
         <description><![CDATA[Hagelandse ElekttriciteitsWerken]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>http://www.hew.biz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 16 Dec 2015 23:29:38 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 16 Dec 2015 23:30:20 GMT</lastBuildDate>
+        <atom:link href="http://www.hew.biz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Algemene elektriciteitswerken]]></title>
+            <description><![CDATA[<article><h1>Algemene elektriciteitswerken</h1><p>Een traditionele elektrische installatie is de huisinstallatie zoals we deze in de meeste woningen terug vinden. Onder deze noemer verstaan we het geheel van alle stopcontacten, schakelaars, lichtpunten en het zekeringbord.</p></article>]]></description>
+            <link>http://www.hew.biz/algemene-elektriciteitswerken/index.html</link>
+            <guid isPermaLink="false">c78a2a35-e950-49fe-a548-d709966b2846</guid>
+            <pubDate>Wed, 16 Dec 2015 23:29:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4dc798b6-573a-4591-baca-5a77ec69ead1.png">]]></description>
+            <link>http://www.hew.biz/3dbecf1b-097b-4c41-981f-1dfe37008e7e/index.html</link>
+            <guid isPermaLink="false">3dbecf1b-097b-4c41-981f-1dfe37008e7e</guid>
+            <pubDate>Wed, 16 Dec 2015 23:29:29 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Wat we voor u kunnen doen]]></title>
             <description><![CDATA[<article><h1>Wat we voor u kunnen doen</h1><p>Domotica: eenvoudig of zeer uitgebreid</p></article>]]></description>
-            <link>undefinedwat-we-voor-u-kunnen-doen/index.html</link>
+            <link>http://www.hew.biz/wat-we-voor-u-kunnen-doen/index.html</link>
             <guid isPermaLink="false">16d2266e-184e-4366-a689-0b88e2f1aa6a</guid>
             <pubDate>Wed, 16 Dec 2015 23:29:29 GMT</pubDate>
         </item>
