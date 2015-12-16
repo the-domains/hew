@@ -1,36 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Hagelandse ElekttriciteitsWerken]]></title>
-        <description><![CDATA[Hagelandse ElekttriciteitsWerken]]></description>
-        <link>http://www.hew.biz/</link>
+        <title><![CDATA[Hagelandse ElektriciteitsWerken]]></title>
+        <description><![CDATA[Hagelandse ElektriciteitsWerken]]></description>
+        <link>https://thegrid.ai/hew/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 16 Dec 2015 23:30:26 GMT</lastBuildDate>
-        <atom:link href="http://www.hew.biz/rss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 16 Dec 2015 23:41:15 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/hew/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Traditionele nieuwbouwinstallatie]]></title>
+            <description><![CDATA[<article><h1>Traditionele nieuwbouwinstallatie</h1><p>Wanneer u beslist een nieuwe woning te (laten) bouwen, komt u met bijzonder veel aannemers in contact. Uw aannemer elektriciteit is hierin een belangrijke partner. Deze zorgt immers voor de stroomvoorziening op uw werf, maar ook voor de elektriciteit in heel uw woning wanneer u deze gaat betrekken.</p></article>]]></description>
+            <link>https://thegrid.ai/hew/traditionele-nieuwbouwinstallatie/index.html</link>
+            <guid isPermaLink="false">8d1915b5-065b-4db4-ba23-f7c95b71fb10</guid>
+            <pubDate>Wed, 16 Dec 2015 23:41:13 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3ac859e3-20eb-4acf-bccb-ca9a6ada7359.jpg">]]></description>
-            <link>http://www.hew.biz/1e2299fa-f4cf-4d78-b075-84ea66be4ee4/index.html</link>
+            <link>https://thegrid.ai/hew/1e2299fa-f4cf-4d78-b075-84ea66be4ee4/index.html</link>
             <guid isPermaLink="false">1e2299fa-f4cf-4d78-b075-84ea66be4ee4</guid>
             <pubDate>Wed, 16 Dec 2015 23:29:29 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Algemene elektriciteitswerken]]></title>
             <description><![CDATA[<article><h1>Algemene elektriciteitswerken</h1><p>Een traditionele elektrische installatie is de huisinstallatie zoals we deze in de meeste woningen terug vinden. Onder deze noemer verstaan we het geheel van alle stopcontacten, schakelaars, lichtpunten en het zekeringbord.</p></article>]]></description>
-            <link>http://www.hew.biz/algemene-elektriciteitswerken/index.html</link>
+            <link>https://thegrid.ai/hew/algemene-elektriciteitswerken/index.html</link>
             <guid isPermaLink="false">c78a2a35-e950-49fe-a548-d709966b2846</guid>
             <pubDate>Wed, 16 Dec 2015 23:29:29 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4dc798b6-573a-4591-baca-5a77ec69ead1.png">]]></description>
-            <link>http://www.hew.biz/3dbecf1b-097b-4c41-981f-1dfe37008e7e/index.html</link>
+            <link>https://thegrid.ai/hew/3dbecf1b-097b-4c41-981f-1dfe37008e7e/index.html</link>
             <guid isPermaLink="false">3dbecf1b-097b-4c41-981f-1dfe37008e7e</guid>
             <pubDate>Wed, 16 Dec 2015 23:29:29 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Wat we voor u kunnen doen]]></title>
             <description><![CDATA[<article><h1>Wat we voor u kunnen doen</h1><p>Domotica: eenvoudig of zeer uitgebreid</p></article>]]></description>
-            <link>http://www.hew.biz/wat-we-voor-u-kunnen-doen/index.html</link>
+            <link>https://thegrid.ai/hew/wat-we-voor-u-kunnen-doen/index.html</link>
             <guid isPermaLink="false">16d2266e-184e-4366-a689-0b88e2f1aa6a</guid>
             <pubDate>Wed, 16 Dec 2015 23:29:29 GMT</pubDate>
         </item>
