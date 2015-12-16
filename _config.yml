@@ -1,0 +1,28 @@
+name: HEW
+favicon: null
+layout_spectrum: 0.9439216242171824
+typography_spectrum: 0.08256040420383215
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.7002332510892302
+  lightness: 0.24960344517603517
+  saturation: 0.19581748312339187
+  rhythmicContrast: 0.21609972673468292
+purpose: []
