@@ -2,12 +2,13 @@ name: HEW
 favicon: null
 layout_spectrum: 0.99699
 typography_spectrum: 0.25331
+title: Hagelandse ElekttriciteitsWerken
 cta:
   domain: null
   bucket: null
   version: null
 analytics:
-  google: null
+  google: UA-71515909-1
   facebook: null
   twitter: null
 opengraph:
